@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296395952975",
+    "project_id": "voyage-57d3e",
+    "storage_bucket": "voyage-57d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296395952975:android:513f5c06ac24857c69ab3a",
+        "android_client_info": {
+          "package_name": "com.gazala.voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296395952975-rohoebovrt8rdjm56pdg7do8a7ftdc26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh7gnT3tOzsr-uQASC4JT8UxV62fPygkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296395952975-rohoebovrt8rdjm56pdg7do8a7ftdc26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
